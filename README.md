@@ -38,7 +38,7 @@ Caso ele seja horista, deverá receber o valor da hora e após isso o total de h
 ![{626DD047-0031-44CE-9613-D21DD7B52392}](https://github.com/user-attachments/assets/2fd5d002-1f03-4f0b-a710-b1ecac1f3a8c)
 
 
-### Parte do aumento geral:
+### Parte do aumento geral (o valor inserido é aplicado ao valor do salário, ou valor total de horistas):
 
 ![{EB4BD9BE-90AD-40EC-AE40-AA85F4B21E3B}](https://github.com/user-attachments/assets/77151804-4ca1-4349-a456-98dcab0c76b9)
 
